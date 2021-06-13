@@ -8,7 +8,7 @@ Folder: `/data`:
 * `result_resumen_por_ubigeo.csv`: En formato csv. Con ubigeos. Campos de primera vuelta y segunda vuelta a nivel de *distrito*
 * `result_resumen_por_mesa.csv`: En formato csv. Con ubigeos. Campos de primera vuelta y segunda vuelta a nivel de *mesa/acta*
 
-Nota, se han procesado 77983 records hasta esta mañana. Actualización pronto con los records restantes.
+Nota, se han procesado 82821 records hasta esta mañana. Actualización pronto con los records restantes.
 
 # Código
 
